@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @muhammadihsanuddienullah
 - 👀 I’m interested in Software Engineering mostly frontend
-- 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on ReactJS web app
 
 <!---
